@@ -1,0 +1,211 @@
+.outer-div{
+    background-color: #fff;
+}
+
+.heding1{
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 56px;
+    font-weight: 200;
+}
+
+.button{
+    height: 45px;
+    width: 350px;
+    border-radius: 60px;
+    
+}
+
+.login-text{
+    font-size: 16px;
+}
+.flex-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon{
+    height: 25px;
+    width: 25px;
+}
+.text-input{
+    height: 50px;
+    width: 350px;
+    border: 1.5px black solid;
+    border-radius: 5px;
+}
+.sec-1-a{
+    padding-top: 70px;
+    height: 900px;
+}
+.sec-1-b{
+   padding-top: 110px;
+    height: 100%;
+    min-height: 900px;
+}
+.bigimg{
+    height: 90%;
+    width: 700px;
+}
+p{
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+     
+}
+.small-text{
+    font-size: 19px;
+    word-spacing: 8px;
+}
+.medium-text{
+    font-size: 22px;
+}
+.big-text{
+    font-size: 43px;
+}
+.sec-2-a{
+    width: 100%;
+    background-color: #e7e9e8;
+    min-height: 300px;
+    
+}
+.sec-2-b{
+    width: 100%;
+    min-height: 300px;
+    background-color: #e7e9e8;
+   
+}
+.small-btn{
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 60px;
+    padding: 15px;
+    margin: 7px
+}
+.sec-3-a{
+    width: 100%;
+    background-color: #fff;
+    min-height: 300px;
+    
+}
+.sec-3-b{
+    width: 100%;
+    min-height: 300px;
+    background-color: #fff;
+   
+}
+.small-btn-white{
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 60px;
+    padding: 15px;
+    margin: 7px;
+    background-color: #fff;
+}
+.sec-4-a{
+    padding-top: 40px;
+    width: 100%;
+    background-color: #f3ebd5ce;
+    min-height: 200px;
+    
+}
+.sec-4-b{
+    padding-top: 60px;
+    width: 100%;
+    min-height: 200px;
+    background-color: #f3ebd5ce;
+   
+}
+.sec-5-a{
+    padding-top: 150px;
+    width: 100%;
+    background-color: #fcfcfc;
+    height: 600px;
+    
+}
+.sec-5-b{
+   
+    padding-top: 100px;
+    width: 100%;
+    height: 600px;
+    background-color: #fcfcfc;
+   
+}
+.profile{
+   height:400px ;
+    width:400px;
+    border-radius: 60px;
+}
+.poster{
+    height: 350px;
+    width: 350px;
+}
+.dropdown{
+    height: 50px;
+    border: 2px rgb(101, 101, 101) solid;
+}
+.sec-6-a{
+   
+    width: 100%;
+    background-color: #fcfcfc;
+    min-height: 700px;
+    
+}
+.sec-6-b{
+   
+    padding-bottom: 50px;
+    width: 100%;
+    min-height: 700px;
+    background-color: #fcfcfc;
+   
+}
+
+.big-poster{
+    height: 800px;
+}
+.sec-7-a{
+   padding-top: 250px;
+    width: 100%;
+    background-color: #f6f3eb;
+    height: 700px;
+    
+}
+.sec-7-b{
+   
+    
+    width: 100%;
+    height: 700px;
+    background-color: #fcfcfc;
+   
+}
+.sec-8-a{
+     padding-top: 250px;
+     width: 100%;
+     background-color: #fff;
+     height: 950px;
+     
+ }
+ .sec-8-b{
+    
+     padding-top: 350px;
+     width: 100%;
+     height: 950px;
+     background-color: #fcfcfc;
+    
+ }
+ .logo{
+    height: 35px;
+    width: 130px;
+ }
+
+ .footer{
+    font-size: 14px;
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    padding-top: 60px;
+    box-sizing: border-box;
+    padding-left: 15%;
+}
+.bandwlogo{
+    height: 20px;
+    width: 70px;
+}
+
